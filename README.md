@@ -40,14 +40,9 @@ I am a Mechanical Engineering graduate specialized in autonomous robotics, SLAM,
 ---
 
 ## Skills
-- **Robotics & Simulation**: ROS 2, Webots, MATLAB/Simulink, Isaac Sim  
-- **AI & ML**: Reinforcement Learning, PyTorch, TensorFlow  
+- **Robotics & Simulation**: ROS 2, Webots, Gazebo, MATLAB/Simulink, Isaac Sim  
+- **AI & ML**: Reinforcement Learning, PyTorch, TensorFlow(basics) 
 - **Programming**: Python, C++, MATLAB  
-- **Control Systems**: SLAM, Nav2, AMCL, PID, sensor fusion  
-
----
-
-## Contact
-📧 emmanuelablo01@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/emmanuel-ablo-a3262b211/) | [GitHub](https://github.com/emmanuelablo)
+- **Control Systems**: SLAM, Nav2, AMCL, PID, sensor fusion
+- **Perception & Computer Vision**: RPLiDAR , Intel RealSense , OpenCV (feature detection, object tracking)
 
