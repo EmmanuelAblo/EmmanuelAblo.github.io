@@ -1,5 +1,5 @@
 # Emmanuel Ablo
-Mechanical Engineer | Robotics & AI Researcher
+Mechanical Engineer | Robotics & AI Researcher   |  📧 emmanuelablo01@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/emmanuel-ablo-a3262b211/) | [GitHub](https://github.com/emmanuelablo)
 
 ## About Me
 I am a Mechanical Engineering graduate specialized in autonomous robotics, SLAM, and reinforcement learning. Passionate about robotics research, I am particularly interested in intelligent navigation, soft robotics, and biomechanics.
