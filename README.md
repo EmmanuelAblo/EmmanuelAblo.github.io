@@ -21,7 +21,7 @@ I am a Mechanical Engineering graduate specialized in autonomous robotics, SLAM,
 - Implemented inverse kinematics & PID tuning for precise 6-DOF control.
 - .[See Report](https://drive.google.com/file/d/1RiIsL1uNzCk8d3_JBdHjDYpltp28ptNd/view?usp=sharing) | [Code](GitHub-link) 
 
-![EduBot2 Simulation](images/Kukakr16.png)
+![EduBot2 Simulation](images/Kuka.png)
 
 ### Automatic Welding Machine (Bachelor’s Thesis)
 - Designed & simulated an automated welding system in SolidWorks.  
