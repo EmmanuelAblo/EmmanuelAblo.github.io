@@ -12,7 +12,7 @@ I am a Mechanical Engineering graduate specialized in autonomous robotics, SLAM,
 ### EduBot2 Autonomous Navigation System (Master’s Thesis)
 - Built a ROS 2-based navigation system using SLAM Toolbox and Nav2.  
 - Developed simulation on MATLAB/Webots and deployed on real robot with LiDAR & RGB-D.  
-- [Video Demo](https://youtu.be/vsBix_fgd3E) | [Code](GitHub-link)  
+- [Video Demo](https://youtu.be/vsBix_fgd3E) | [Code](https://github.com/EmmanuelAblo/EduBot2)  
 
 ![EduBot2 Simulation](images/edubot2.png)
 
