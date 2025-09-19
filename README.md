@@ -14,15 +14,21 @@ I am a Mechanical Engineering graduate specialized in autonomous robotics, SLAM,
 - Developed simulation on MATLAB/Webots and deployed on real robot with LiDAR & RGB-D.  
 - [Video Demo](https://youtu.be/vsBix_fgd3E) | [Code](GitHub-link)  
 
+![EduBot2 Simulation](images/edubot2.png)
+
 ### Simulation & Control of KUKA KR16
 - Simulated KUKA KR16 robot with SolidWorks → Simscape model.  
 - Implemented inverse kinematics & PID tuning for precise 6-DOF control.
-- .[See Report](https://drive.google.com/file/d/1RiIsL1uNzCk8d3_JBdHjDYpltp28ptNd/view?usp=sharing) 
+- .[See Report](https://drive.google.com/file/d/1RiIsL1uNzCk8d3_JBdHjDYpltp28ptNd/view?usp=sharing) | [Code](GitHub-link) 
+
+![EduBot2 Simulation](images/Kukakr16.png)
 
 ### Automatic Welding Machine (Bachelor’s Thesis)
 - Designed & simulated an automated welding system in SolidWorks.  
 - Performed structural analysis, motor integration, and feasibility studies.
 - [Video Demo](https://youtu.be/saXXKsKDktc)
+
+![EduBot2 Simulation](images/weldingmachine.png)
 
 ---
 
