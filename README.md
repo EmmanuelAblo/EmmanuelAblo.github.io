@@ -19,7 +19,7 @@ I am a Mechanical Engineering graduate specialized in autonomous robotics, SLAM,
 ### Simulation & Control of KUKA KR16 | Oct 2024
 - Simulated KUKA KR16 robot with SolidWorks → Simscape model.  
 - Implemented inverse kinematics & PID tuning for precise 6-DOF control.
-- .[See Report](https://drive.google.com/file/d/1RiIsL1uNzCk8d3_JBdHjDYpltp28ptNd/view?usp=sharing) | [Code](GitHub-link) 
+- .[See Report](https://drive.google.com/file/d/1RiIsL1uNzCk8d3_JBdHjDYpltp28ptNd/view?usp=sharing) | [Code](https://drive.google.com/file/d/1ta9bqaMWKkcKgAOfRw_Ejnwkj2xaRmov/view?usp=sharing) 
 
 ![EduBot2 Simulation](images/Kuka.png)
 
