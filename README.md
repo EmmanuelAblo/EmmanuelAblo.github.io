@@ -4,7 +4,7 @@ Mechanical Engineer | Robotics & AI Researcher   |  📧 emmanuelablo01@gmail.co
 ## About Me
 I am a Mechanical Engineering graduate specialized in autonomous robotics, SLAM, and reinforcement learning. Passionate about robotics research, I am particularly interested in intelligent navigation, soft robotics, and biomechanics.
 
-[Download my CV](https://flowcv.com/resume/db8ks3rd8j1o)
+[my CV](https://flowcv.com/resume/db8ks3rd8j1o)
 
 ---
 
