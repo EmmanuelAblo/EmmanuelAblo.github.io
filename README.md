@@ -40,9 +40,9 @@ I am a Mechanical Engineering graduate specialized in autonomous robotics, SLAM,
 ---
 
 ## Skills
-- **Robotics & Simulation**: ROS 2, Webots, Gazebo, MATLAB/Simulink, Isaac Sim  
-- **AI & ML**: Reinforcement Learning, PyTorch, TensorFlow(basics) 
-- **Programming**: Python, C++, MATLAB  
-- **Control Systems**: SLAM, Nav2, AMCL, PID, sensor fusion
-- **Perception & Computer Vision**: RPLiDAR , Intel RealSense , OpenCV (feature detection, object tracking)
+- **Robotics & Control systems**: ROS 2 (navigation, SLAM, Nav2), Mobile robot control & differential drive Modbus TCP/IP, Sensor fusion (LiDAR, odometry), Robot simulation (Webots, Gazebo, Rviz) 
+- **AI & ML**: Linear and logistic Regression, TensorFlow, Keras, Scikit-learn, Reinforcement learning 
+- **Programming & Data Analysis**: Python (NumPy, Pandas, Matplotlib), C/C++ (embedded control), Git/GitHub, Linux (Ubuntu, bash scripting, ROS development) 
+- **Simulation & Modelings**: MATLAB/Simulink, CATIA, SolidWorks, Abaqus, Finite Element Method (FEM)
+- **Perception & Computer Vision**: OpenCV (object detection, line detection, feature matching), 3D/2D perception( LiDAR scan processing, SLAM Camera calibration, visual odometry)
 
