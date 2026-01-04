@@ -4,7 +4,7 @@ Mechanical Engineer | Robotics & AI Researcher   |  📧 emmanuelablo01@gmail.co
 ## About Me
 I am a Mechanical Engineering graduate specialized in autonomous robotics, SLAM, and reinforcement learning. Passionate about robotics research, I am particularly interested in intelligent navigation, soft robotics, and biomechanics.
 
-[my CV](https://flowcv.com/resume/db8ks3rd8j1o)
+[my CV](https://flowcv.com/resume/shn01akq73hf)
 
 ---
 
@@ -35,14 +35,34 @@ I am a Mechanical Engineering graduate specialized in autonomous robotics, SLAM,
 ## Pubications and Contributions
 - Contributor to **AfROB’s 2025 State of Robotics in Africa (SORA) Report**:  
   - *Industry – Agriculture Deep Dive*  
-  - *Research & Innovation – High-output Academic Research Program*  
+  - *Research & Innovation – High-output Academic Research Program*
+
+- **Open-source autonomous robot simulation**:  
+  - *Published open-source repository of EduBot2 autonomous robot simulation with ROS 2 packages and controllers.*  
 
 ---
 
 ## Skills
-- **Robotics & Control systems**: ROS 2 (navigation, SLAM, Nav2), Mobile robot control & differential drive Modbus TCP/IP, Sensor fusion (LiDAR, odometry), Robot simulation (Webots, Gazebo, Rviz) 
-- **AI & ML**: Linear and logistic Regression, TensorFlow, Keras, Scikit-learn, Reinforcement learning 
-- **Programming & Data Analysis**: Python (NumPy, Pandas, Matplotlib), C/C++ (embedded control), Git/GitHub, Linux (Ubuntu, bash scripting, ROS development) 
-- **Simulation & Modelings**: MATLAB/Simulink, CATIA, SolidWorks, Abaqus, Finite Element Method (FEM)
-- **Perception & Computer Vision**: OpenCV (object detection, line detection, feature matching), 3D/2D perception( LiDAR scan processing, SLAM Camera calibration, visual odometry)
+-  **Mechanical & Mechatronics Engineering**:
+Mechanical systems troubleshooting | Manufacturing processes: machining (lathe, milling), forming, welding | 
+Materials selection & mechanical assemblies | Industrial maintenance
+
+-  **Control, Automation & Robotics**:
+Control systems (PID, trajectory tracking) | ROS2, SLAM, navigation | Sensor fusion (LiDAR, IMU, odometry) | 
+Embedded systems | Modbus TCP/IP
+
+-  **Simulation & Modeling**:
+MATLAB/Simulink | SolidWorks, CATIA, Abaqus (FEM basics) | Webots, Gazebo, RViz
+
+-  **Programming & Data Analysis**:
+Python (NumPy, Pandas, OpenCV) | C/C++ for control | Linux / Git / Bash scripting
+-  **AI & ML**
+Linear and logistic Regression | TensorFlow, Keras, Scikit-learn | Reinforcement learning (basics)
+
+-  **Experimental Methods**:
+Sensor integration (LiDAR, encoders, cameras) | Data acquisition & calibration | prototyping (3D printing, 
+mechanical assembly) | Real-robot experiments & validation
+
+-  **Research & Communication**:
+Scientific writing | Literature review & bibliographic research | Data visualization & technical presentations
 
