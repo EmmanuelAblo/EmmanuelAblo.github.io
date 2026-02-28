@@ -10,23 +10,23 @@ Mechanical Engineer with strong foundations in mechanical design, electromechani
 
 ## Projects
 ### EduBot2 Autonomous Navigation System (Master’s Thesis) | Jan -> Jun 2025
-- Built a ROS 2-based navigation system using SLAM Toolbox and Nav2.  
-- Developed simulation on MATLAB/Webots and deployed on real robot with LiDAR & RGB-D.  
-- [Video Demo](https://youtu.be/vsBix_fgd3E) | [Code](https://github.com/EmmanuelAblo/EduBot2)  
+- Built a ROS 2-based navigation system using SLAM Toolbox and Nav2.
+- Developed simulation on MATLAB/Webots and deployed on real robot with LiDAR & RGB-D.
+- [Video Demo](https://youtu.be/vsBix_fgd3E) | [Code](https://github.com/EmmanuelAblo/EduBot2) 
 
 ![EduBot2 Simulation](images/edubot2.png)
 
 ### Automatic Welding Machine (Bachelor’s Thesis) | feb -> jun 2023
-- Designed & simulated an automated welding system in SolidWorks.  
+- Designed & simulated an automated welding system in SolidWorks.
 - Performed structural analysis, motor integration, and feasibility studies.
 - [Video Demo](https://youtu.be/saXXKsKDktc)
 
 ![EduBot2 Simulation](images/weldingmachine.png)
 
 ### Simulation & Control of KUKA KR16 | Oct 2024
-- Simulated KUKA KR16 robot with SolidWorks → Simscape model.  
+- Simulated KUKA KR16 robot with SolidWorks → Simscape model.
 - Implemented inverse kinematics & PID tuning for precise 6-DOF control.
-- .[See Report](https://drive.google.com/file/d/1RiIsL1uNzCk8d3_JBdHjDYpltp28ptNd/view?usp=sharing) | [Code](https://drive.google.com/file/d/1ta9bqaMWKkcKgAOfRw_Ejnwkj2xaRmov/view?usp=sharing) 
+- .[See Report](https://drive.google.com/file/d/1RiIsL1uNzCk8d3_JBdHjDYpltp28ptNd/view?usp=sharing) | [Code](https://drive.google.com/file/d/1ta9bqaMWKkcKgAOfRw_Ejnwkj2xaRmov/view?usp=sharing)
 
 ![EduBot2 Simulation](images/Kuka.png)
 
