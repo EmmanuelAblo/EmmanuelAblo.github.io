@@ -110,6 +110,7 @@ Scientific writing | Literature review & bibliographic research | Data visualiza
 
 ---
 
-## Languages:
-|French | English | Spanish
-|Native/​Bilingual | Full professional proficiency | Basic
+## Languages
+
+| French | English | Spanish |
+| Native/​Bilingual | Full professional proficiency | Basic |
