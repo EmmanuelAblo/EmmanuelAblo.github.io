@@ -2,7 +2,7 @@
 Mechanical Engineer | Robotics & AI   |  📧 emmanuelablo01@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/emmanuel-ablo-a3262b211/) | [GitHub](https://github.com/emmanuelablo)
 
 ## About Me
-Mechanical & Robotics Engineer with strong foundations in mechanical design, electromechanics, machine automation, and industrial troubleshooting. Experienced in CAD modeling, mechanical systems integration, maintenance, and prototyping. Complemented by solid skills in robotics (ROS2, SLAM, control), experimental validation, and sensor integration. Able to work across the full engineering pipeline, from mechanical conception and simulation to implementation on real equipment
+Mechanical Engineer with strong foundations in mechanical design, electromechanics, machine automation, and industrial troubleshooting. Experienced in CAD modeling, mechanical systems integration, maintenance, and prototyping. Complemented by solid skills in robotics (ROS2, SLAM, control), experimental validation, and sensor integration. Able to work across the full engineering pipeline, from mechanical conception and simulation to implementation on real equipment
 
 [my CV](https://flowcv.com/resume/uj9nswfpk5k2)
 
@@ -16,6 +16,13 @@ Mechanical & Robotics Engineer with strong foundations in mechanical design, ele
 
 ![EduBot2 Simulation](images/edubot2.png)
 
+### Automatic Welding Machine (Bachelor’s Thesis) | feb -> jun 2023
+- Designed & simulated an automated welding system in SolidWorks.  
+- Performed structural analysis, motor integration, and feasibility studies.
+- [Video Demo](https://youtu.be/saXXKsKDktc)
+
+![EduBot2 Simulation](images/weldingmachine.png)
+
 ### Simulation & Control of KUKA KR16 | Oct 2024
 - Simulated KUKA KR16 robot with SolidWorks → Simscape model.  
 - Implemented inverse kinematics & PID tuning for precise 6-DOF control.
@@ -23,12 +30,7 @@ Mechanical & Robotics Engineer with strong foundations in mechanical design, ele
 
 ![EduBot2 Simulation](images/Kuka.png)
 
-### Automatic Welding Machine (Bachelor’s Thesis) | feb -> jun 2023
-- Designed & simulated an automated welding system in SolidWorks.  
-- Performed structural analysis, motor integration, and feasibility studies.
-- [Video Demo](https://youtu.be/saXXKsKDktc)
 
-![EduBot2 Simulation](images/weldingmachine.png)
 
 ---
 
