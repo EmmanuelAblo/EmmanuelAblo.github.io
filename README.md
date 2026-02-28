@@ -81,26 +81,33 @@ The objective of this project was to convert a fully pneumatic stapler into a se
 ## Skills
 
 -  **Mechanical Design & Simulation**:
+
 SolidWorks | Fusion 360 | Autodesk inventor | CATIA | MATLAB/Simulink | Abaqus | Technical drawings | Design for manufacturing | Finite Element Method MATLAB/Simulink | 
 
 -  **Mechanical production & Engineering**:
+
 Machining processes (turning, milling) | welding | forming processes | Production systems | CNC machining basics | Mechanical systems troubleshooting | 
 Materials selection
 
 -  **Control, Automation & Robotics**:
+
 Control systems (PID, trajectory tracking) | ROS2, SLAM, navigation | Sensor fusion (LiDAR, IMU, odometry) | 
 Embedded systems | robot simulation(Webots, Gazebo, RViz) | Industrial robotic arms
 
 -  **Programming & Data Analysis**:
+
 Python | NumPy | Pandas | Matplotlib | C/C++ (embedded control) | Git/GitHub | Linux (Ubuntu environment, bash scripting, ROS development)
 
 -  **AI & ML**
+
 Linear and logistic Regression | TensorFlow, Keras, Scikit-learn | Reinforcement learning (basics)
 
 -  **Experimental Methods**:
+
 Sensor integration (LiDAR, encoders, cameras) | Data acquisition & calibration | prototyping (3D printing, 
 mechanical assembly) | Real-robot experiments & validation
 
 -  **Research & Communication**:
+
 Scientific writing | Literature review & bibliographic research | Data visualization & technical presentations
 
