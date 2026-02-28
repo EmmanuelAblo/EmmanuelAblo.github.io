@@ -20,8 +20,10 @@ Mechanical Engineer with strong foundations in mechanical design, electromechani
 - Designed and modeled an actuated camera mount system in SolidWorks, including full part design, assembly structure, and technical drawings.
 - Re-designed the complete system in Autodesk Fusion and Inventor to strengthen cross-platform proficiency.
 - Strengthened my skills in parametric modeling, constraints, joints, and drawing generation across different CAD platforms.
+
 - In Solidworks: [Solidwork video](https://youtu.be/saXXKsKDktc)
-                              ![cameramount](images/edubot2.png)
+
+  ![cameramount](images/cameramoun_solidworks.png)
 
 - In Autodesk Inventor: [Inventor demo](https://youtu.be/saXXKsKDktc)
 
@@ -44,7 +46,7 @@ Mechanical Engineer with strong foundations in mechanical design, electromechani
 ---
 
 ## Pubications and Contributions
-- Contributor to **AfROB’s 2025 State of Robotics in Africa (SORA) Report**:  
+- **Contributor to AfROB’s 2025 State of Robotics in Africa (SORA) Report**:  
   - *Industry – Agriculture Deep Dive*  
   - *Research & Innovation – High-output Academic Research Program*
 
