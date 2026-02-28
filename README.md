@@ -16,6 +16,17 @@ Mechanical Engineer with strong foundations in mechanical design, electromechani
 
 ![EduBot2 Simulation](images/edubot2.png)
 
+### Actuated Camera Mount System Design (SolidWorks, Fusion, Inventor) jan -> feb 2026
+- Designed and modeled an actuated camera mount system in SolidWorks, including full part design, assembly structure, and technical drawings.
+- Re-designed the complete system in Autodesk Fusion and Inventor to strengthen cross-platform proficiency.
+- Strengthened my skills in parametric modeling, constraints, joints, and drawing generation across different CAD platforms.
+- In Solidworks: [Solidwork video](https://youtu.be/saXXKsKDktc)
+                              ![cameramount](images/edubot2.png)
+
+- In Autodesk Inventor: [Inventor demo](https://youtu.be/saXXKsKDktc)
+
+![cameramount](images/edubot2.png)
+
 ### Automatic Welding Machine (Bachelor’s Thesis) | feb -> jun 2023
 - Designed & simulated an automated welding system in SolidWorks.
 - Performed structural analysis, motor integration, and feasibility studies.
