@@ -1,5 +1,5 @@
 # Emmanuel Ablo
-Mechanical Engineer | CAD | Robotics & AI ||  📧 emmanuelablo01@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/emmanuel-ablo-a3262b211/) | [GitHub](https://github.com/emmanuelablo)
+Mechanical Engineer | Robotics & AI |  📧 emmanuelablo01@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/emmanuel-ablo-a3262b211/) | [GitHub](https://github.com/emmanuelablo)
 
 ## About Me
 Mechanical Engineer with strong foundations in **mechanical design**, electromechanics, machine automation, and industrial troubleshooting. Experienced in **CAD modeling**, mechanical systems integration, maintenance, and prototyping. Complemented by solid skills in **robotics** (ROS2, SLAM, control), experimental validation, and sensor integration. Able to work across the full engineering pipeline, from mechanical conception and simulation to implementation on real equipment.
@@ -21,11 +21,11 @@ Mechanical Engineer with strong foundations in **mechanical design**, electromec
 - Re-designed the complete system in Autodesk Fusion and Inventor to strengthen cross-platform proficiency.
 - Strengthened my skills in parametric modeling, constraints, joints, and drawing generation across different CAD platforms.
 
-- **In Solidworks:** [Solidwork video](https://youtu.be/psvDhtHdwh8)
+- **In Solidworks:** | [Solidwork video](https://youtu.be/psvDhtHdwh8) |
   
   ![cameramount](images/cameramoun_solidworks.png)
 
-- **In Autodesk Inventor:** [Inventor demo](https://youtu.be/AKTOBQfABHU)
+- **In Autodesk Inventor:** | [Inventor Video](https://youtu.be/AKTOBQfABHU) |
   
   ![cameramount](images/cameramount_Inventor.png)
 
@@ -46,7 +46,7 @@ The docking station was designed as a mechanically simple but robust structure, 
 - A fixed base compatible with indoor laboratory environments 
 - Mechanical constraints ensuring repeatable robot positioning during charging
   
-  ![docking](images/Image1.png)  ![dockingreal](images/Image2.jpg)
+    ![docking](images/Image1.png)          ![dockingreal](images/Image2.jpg)
 
 ### Semi-Automatic Electric Stapler
 The objective of this project was to convert a fully pneumatic stapler into a semi-automatic electric system, The project involved the following mechanical and electromechanical modifications: 
@@ -79,19 +79,21 @@ The objective of this project was to convert a fully pneumatic stapler into a se
 ---
 
 ## Skills
--  **Mechanical & Mechatronics Engineering**:
-Mechanical systems troubleshooting | Manufacturing processes: machining (lathe, milling), forming, welding | 
-Materials selection & mechanical assemblies | Industrial maintenance
+
+-  **Mechanical Design & Simulation**:
+SolidWorks | Fusion 360 | Autodesk inventor | CATIA | MATLAB/Simulink | Abaqus | Technical drawings | Design for manufacturing | Finite Element Method MATLAB/Simulink | 
+
+-  **Mechanical production & Engineering**:
+Machining processes (turning, milling) | welding | forming processes | Production systems | CNC machining basics | Mechanical systems troubleshooting | 
+Materials selection
 
 -  **Control, Automation & Robotics**:
 Control systems (PID, trajectory tracking) | ROS2, SLAM, navigation | Sensor fusion (LiDAR, IMU, odometry) | 
-Embedded systems | Modbus TCP/IP
-
--  **Simulation & Modeling**:
-MATLAB/Simulink | SolidWorks, CATIA, Abaqus (FEM basics) | Webots, Gazebo, RViz
+Embedded systems | robot simulation(Webots, Gazebo, RViz) | Industrial robotic arms
 
 -  **Programming & Data Analysis**:
-Python (NumPy, Pandas, OpenCV) | C/C++ for control | Linux / Git / Bash scripting
+Python | NumPy | Pandas | Matplotlib | C/C++ (embedded control) | Git/GitHub | Linux (Ubuntu environment, bash scripting, ROS development)
+
 -  **AI & ML**
 Linear and logistic Regression | TensorFlow, Keras, Scikit-learn | Reinforcement learning (basics)
 
