@@ -4,7 +4,7 @@ Mechanical Engineer | Robotics & AI   |  📧 emmanuelablo01@gmail.com | 🔗 [L
 ## About Me
 Mechanical & Robotics Engineer with strong foundations in mechanical design, electromechanics, machine automation, and industrial troubleshooting. Experienced in CAD modeling, mechanical systems integration, maintenance, and prototyping. Complemented by solid skills in robotics (ROS2, SLAM, control), experimental validation, and sensor integration. Able to work across the full engineering pipeline, from mechanical conception and simulation to implementation on real equipment
 
-[my CV](https://flowcv.com/resume/shn01akq73hf)
+[my CV](https://flowcv.com/resume/uj9nswfpk5k2)
 
 ---
 
