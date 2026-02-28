@@ -8,7 +8,7 @@ Mechanical Engineer with strong foundations in **mechanical design**, electromec
 
 ---
 
-## Projects
+## Relevant Projects
 ### EduBot2 Autonomous Navigation System (Master’s Thesis) | Jan -> Jun 2025
 - Built a ROS 2-based navigation system using SLAM Toolbox and Nav2.
 - Developed simulation on MATLAB/Webots and deployed on real robot with LiDAR & RGB-D.
@@ -21,11 +21,11 @@ Mechanical Engineer with strong foundations in **mechanical design**, electromec
 - Re-designed the complete system in Autodesk Fusion and Inventor to strengthen cross-platform proficiency.
 - Strengthened my skills in parametric modeling, constraints, joints, and drawing generation across different CAD platforms.
 
-- **In Solidworks:** [Solidwork video](https://youtu.be/saXXKsKDktc)
+- **In Solidworks:** [Solidwork video](https://youtu.be/psvDhtHdwh8)
   
   ![cameramount](images/cameramoun_solidworks.png)
 
-- **In Autodesk Inventor:** [Inventor demo](https://youtu.be/saXXKsKDktc)
+- **In Autodesk Inventor:** [Inventor demo](https://youtu.be/AKTOBQfABHU)
   
   ![cameramount](images/cameramount_Inventor.png)
 
@@ -38,8 +38,27 @@ Mechanical Engineer with strong foundations in **mechanical design**, electromec
 - Performed structural analysis, motor integration, and feasibility studies.
 - [Video Demo](https://youtu.be/saXXKsKDktc)
 
-![EduBot2 Simulation](images/weldingmachine.png)
+![welding machine](images/weldingmachine.png)
 
+### Docking Station for Autonomous mobile robot EduBot2 (Master thesis)
+The docking station was designed as a mechanically simple but robust structure, featuring: 
+- A V-shaped guiding geometry to passively correct lateral misalignment during docking 
+- A fixed base compatible with indoor laboratory environments 
+- Mechanical constraints ensuring repeatable robot positioning during charging
+  
+  ![docking](images/Image1.png)  ![dockingreal](images/Image2.jpg)
+
+### Semi-Automatic Electric Stapler
+The objective of this project was to convert a fully pneumatic stapler into a semi-automatic electric system, The project involved the following mechanical and electromechanical modifications: 
+- Replacement of the pneumatic actuation system with an electric actuation mechanism
+- Design and integration of mechanical support for:
+    o Electric actuator
+    o  Sensor housing 
+- Mechanical adaptation of the stapler body to accommodate new components 
+- Preservation of the original stapling mechanism to ensure reliability
+
+  ![docking](images/Image3.jpg)
+  
 ### Simulation & Control of KUKA KR16 | Oct 2024
 - Simulated KUKA KR16 robot with SolidWorks → Simscape model.
 - Implemented inverse kinematics & PID tuning for precise 6-DOF control.
