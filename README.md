@@ -36,7 +36,7 @@ Mechanical Engineer with strong foundations in **mechanical design**, electromec
 ### Automatic Welding Machine (Bachelor’s Thesis) | feb -> jun 2023
 - Designed & simulated an automated welding system in SolidWorks.
 - Performed structural analysis, motor integration, and feasibility studies.
-- [Video Demo](https://youtu.be/saXXKsKDktc)
+- | [Video Demo](https://youtu.be/saXXKsKDktc) |
 
 ![welding machine](images/weldingmachine.png)
 
@@ -56,6 +56,7 @@ The objective of this project was to convert a fully pneumatic stapler into a se
     o  Sensor housing 
 - Mechanical adaptation of the stapler body to accommodate new components 
 - Preservation of the original stapling mechanism to ensure reliability
+  | [Video Demo](https://youtu.be/rtIZniqdv0k) |
 
   ![docking](images/Image3.jpg)
   
