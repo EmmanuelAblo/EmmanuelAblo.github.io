@@ -109,6 +109,5 @@ Sensor integration (LiDAR, encoders, cameras) | Data acquisition & calibration |
 Scientific writing | Literature review & bibliographic research | Data visualization & technical presentations
 
 ## Languages:
-
-|French | English | Spanish
-|Native/​Bilingual | Full professional proficiency | Basic
+|French | English | Spanish|
+|Native/​Bilingual | Full professional proficiency | Basic|
