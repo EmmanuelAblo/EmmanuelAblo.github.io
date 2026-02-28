@@ -1,8 +1,8 @@
 # Emmanuel Ablo
-Mechanical Engineer | Robotics & AI   |  📧 emmanuelablo01@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/emmanuel-ablo-a3262b211/) | [GitHub](https://github.com/emmanuelablo)
+Mechanical Engineer | CAD | Robotics & AI ||  📧 emmanuelablo01@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/emmanuel-ablo-a3262b211/) | [GitHub](https://github.com/emmanuelablo)
 
 ## About Me
-Mechanical Engineer with strong foundations in mechanical design, electromechanics, machine automation, and industrial troubleshooting. Experienced in CAD modeling, mechanical systems integration, maintenance, and prototyping. Complemented by solid skills in robotics (ROS2, SLAM, control), experimental validation, and sensor integration. Able to work across the full engineering pipeline, from mechanical conception and simulation to implementation on real equipment
+Mechanical Engineer with strong foundations in **mechanical design**, electromechanics, machine automation, and industrial troubleshooting. Experienced in **CAD modeling**, mechanical systems integration, maintenance, and prototyping. Complemented by solid skills in **robotics** (ROS2, SLAM, control), experimental validation, and sensor integration. Able to work across the full engineering pipeline, from mechanical conception and simulation to implementation on real equipment.
 
 [my CV](https://flowcv.com/resume/uj9nswfpk5k2)
 
@@ -22,14 +22,16 @@ Mechanical Engineer with strong foundations in mechanical design, electromechani
 - Strengthened my skills in parametric modeling, constraints, joints, and drawing generation across different CAD platforms.
 
 - **In Solidworks:** [Solidwork video](https://youtu.be/saXXKsKDktc)
+  
   ![cameramount](images/cameramoun_solidworks.png)
 
 - **In Autodesk Inventor:** [Inventor demo](https://youtu.be/saXXKsKDktc)
-![cameramount](images/cameramount_Inventor.png)
+  
+  ![cameramount](images/cameramount_Inventor.png)
 
 - **In Autodesk Fusion 360:**
 
-![cameramount](images/cameramount_fusion360.png)
+  ![cameramount](images/cameramount_fusion360.png)
 
 ### Automatic Welding Machine (Bachelor’s Thesis) | feb -> jun 2023
 - Designed & simulated an automated welding system in SolidWorks.
