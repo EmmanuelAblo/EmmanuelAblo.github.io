@@ -30,8 +30,6 @@ Mechanical Engineer with strong foundations in mechanical design, electromechani
 
 ![EduBot2 Simulation](images/Kuka.png)
 
-
-
 ---
 
 ## Pubications and Contributions
