@@ -21,13 +21,15 @@ Mechanical Engineer with strong foundations in mechanical design, electromechani
 - Re-designed the complete system in Autodesk Fusion and Inventor to strengthen cross-platform proficiency.
 - Strengthened my skills in parametric modeling, constraints, joints, and drawing generation across different CAD platforms.
 
-- In Solidworks: [Solidwork video](https://youtu.be/saXXKsKDktc)
-
+- **In Solidworks:** [Solidwork video](https://youtu.be/saXXKsKDktc)
   ![cameramount](images/cameramoun_solidworks.png)
 
-- In Autodesk Inventor: [Inventor demo](https://youtu.be/saXXKsKDktc)
+- **In Autodesk Inventor:** [Inventor demo](https://youtu.be/saXXKsKDktc)
+![cameramount](images/cameramount_Inventor.png)
 
-![cameramount](images/edubot2.png)
+- **In Autodesk Fusion 360:**
+
+![cameramount](images/cameramount_fusion360.png)
 
 ### Automatic Welding Machine (Bachelor’s Thesis) | feb -> jun 2023
 - Designed & simulated an automated welding system in SolidWorks.
