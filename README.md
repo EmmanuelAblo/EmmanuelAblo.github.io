@@ -56,7 +56,7 @@ The objective of this project was to convert a fully pneumatic stapler into a se
     o  Sensor housing 
 - Mechanical adaptation of the stapler body to accommodate new components 
 - Preservation of the original stapling mechanism to ensure reliability
-  | [Video Demo](https://youtu.be/rtIZniqdv0k) |
+- | [Video Demo](https://youtu.be/rtIZniqdv0k) |
 
   ![docking](images/Image3.jpg)
   
